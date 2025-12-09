@@ -17,7 +17,7 @@ IMPORTANT: To prevent instruction leakage, put ALL style/quality keywords at the
 >> (Panel 5 - Layout: [AI Chooses: Cross-section/Detail])
 > [Visual: Internal mechanism. Bold Bubble Text: "(Logic)"]
 >> (Panel 6 - Layout: [AI Chooses: MASSIVE TALL or DIAGONAL CLIMAX])
-> [Visual: The Core Principle revealed! High impact. GIANT Bubble Text: "(Core Principle!)"]
+> [Visual: The Core Principle revealed! High impact. BIG Bold Bubble Text: "(Core Principle!)"]
 >> (Panel 7 - Layout: [AI Chooses: Small Reaction])
 > [Visual: Realization. Bold Bubble Text: "(Reaction)"]
 >> (Panel 8 - Layout: Full-Width Socratic Bridge)
