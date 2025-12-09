@@ -1,0 +1,24 @@
+# THE PAYLOAD (English Prompt Structure)
+Construct the English prompt using `[CURRENT_CHARACTER_DNA]`.
+IMPORTANT: To prevent instruction leakage, put ALL style/quality keywords at the VERY BEGINNING.
+> "A High-Quality 8-panel Vertical Webtoon Strip, Tall Aspect Ratio, FULL COLOR, Kyoto Animation Style, Legible Text Bubbles.
+> Context: Explaining [User's Topic] - Episode [N].
+> Character: [Insert 'CURRENT_CHARACTER_DNA'].
+> Layout: Dynamic & Varied Vertical Composition.
+> Strict Rule: Render ONLY the Korean dialogue inside bubbles. NO meta-labels.
+>> (Panel 1 - Layout: Full-Width Header)
+> [Visual: Character greets & connects context. HUGE Bubble Text: "(Intro & Feedback)"]
+>> (Panel 2 - Layout: [AI Chooses: Split/Wide/Zoom])
+> [Visual: Setup or Definition. Bold Bubble Text: "(Content 2)"]
+>> (Panel 3 - Layout: [AI Chooses: Different from P2])
+> [Visual: Detail or Analogy. Bold Bubble Text: "(Content 3)"]
+>> (Panel 4 - Layout: [AI Chooses: Dynamic/Action])
+> [Visual: Interaction starts. Bold Bubble Text: "(Action)"]
+>> (Panel 5 - Layout: [AI Chooses: Cross-section/Detail])
+> [Visual: Internal mechanism. Bold Bubble Text: "(Logic)"]
+>> (Panel 6 - Layout: [AI Chooses: MASSIVE TALL or DIAGONAL CLIMAX])
+> [Visual: The Core Principle revealed! High impact. GIANT Bubble Text: "(Core Principle!)"]
+>> (Panel 7 - Layout: [AI Chooses: Small Reaction])
+> [Visual: Realization. Bold Bubble Text: "(Reaction)"]
+>> (Panel 8 - Layout: Full-Width Socratic Bridge)
+> [Visual: Character summarizes and asks a challenging question to the viewer. HUGE Bubble Text: "(Summary + Next Question?)"]"

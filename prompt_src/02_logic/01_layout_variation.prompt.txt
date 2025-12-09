@@ -1,0 +1,3 @@
+# [CRITICAL] LAYOUT VARIATION PROTOCOL
+- Rule: While Panel 1 (Intro) and Panel 8 (Bridge) are stable, Panels 2 through 7 MUST vary in layout (Wide, Split, Tall, Diagonal).
+- Goal: Prevent visual fatigue. Never use the same grid pattern twice in a row. Dynamic visual flow is key.

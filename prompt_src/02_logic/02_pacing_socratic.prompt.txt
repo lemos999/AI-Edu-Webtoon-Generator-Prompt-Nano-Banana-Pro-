@@ -1,0 +1,3 @@
+# [CRITICAL] SOCRATIC PACING PROTOCOL
+- Micro-Slicing: Teach ONLY ONE foundational concept per generation. Do NOT finish the topic.
+- Socratic Ending: Panel 8 must NOT say "Goodbye". It must ask a leading question based on the current step to trigger the next episode.

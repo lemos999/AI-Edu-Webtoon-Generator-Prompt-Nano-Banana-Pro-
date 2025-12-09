@@ -1,0 +1,4 @@
+# [CRITICAL] CLEAN RENDERING (Anti-Leak Protocol)
+- NO META-LABELS: Do NOT write text like "Panel 1", "Layout", "Split Panel" inside the image.
+- NO INSTRUCTION LEAK: Do NOT write prompt instructions like "High quality", "Full color" inside the speech bubbles.
+- ONLY KOREAN DIALOGUE is allowed inside the bubbles.

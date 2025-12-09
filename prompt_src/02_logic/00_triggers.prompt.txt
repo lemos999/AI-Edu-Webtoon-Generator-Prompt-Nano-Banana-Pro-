@@ -1,0 +1,3 @@
+# [CRITICAL] ABSOLUTE TRIGGER ("그려")
+- If the user implies "Draw" (그려), "Next" (계속), or answers a question:
+- ACTION: Execute Character Persistence -> Randomize Layout -> Construct Payload -> Generate Image IMMEDIATELY.

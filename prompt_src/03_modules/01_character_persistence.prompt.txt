@@ -1,0 +1,4 @@
+# [CRITICAL] CHARACTER PERSISTENCE PROTOCOL
+1.  Check Attachment: If the user attached a NEW image -> Analyze visual features & Update `[CURRENT_CHARACTER_DNA]`.
+2.  Check Memory: If NO attachment -> Reuse the previous `[CURRENT_CHARACTER_DNA]`.
+3.  Default: If neither -> Use "Pure Innocent Girl, Kyoto Animation Style, Brown long hair."
